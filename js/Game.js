@@ -43,7 +43,8 @@ class Game {
     
     if(allPlayers !== undefined){
       //var display_position = 100;
-      
+            background(rgb(198,135,103));
+
       //index of the array
       var index = 0;
 
